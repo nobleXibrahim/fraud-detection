@@ -16,7 +16,7 @@
 
 | Name | Email | GitHub | Role |
 |---|---|---|---|
-| PRINCESS CHIAMAKA EMENARI | princessemenari2@gmail.com | [GitHub](https://github.com/Princess-ma) | ***Group Leader*** |
+| Princess Chiamaka Emenari | princessemenari2@gmail.com | [GitHub](https://github.com/Princess-ma) | Group Leader |
 
 ---
 
@@ -24,7 +24,7 @@
 
 | Name | Email | GitHub | Role |
 |---|---|---|---|
-| **OGUNNIYI IBRAHIM ADEDEJI** | ogunniyiibrahim2029@gmail.com  |[GitHub](https://github.com/nobleXibrahim)  | Active Member |
+| **OGUNNIYI IBRAHIM ADEDEJI** | ogunniyiibrahim2029@gmail.com  |[GitHub](https://github.com/nobleXibrahim)  | **Active Member** |
 | Olaleru Praise Ajibola | zionpraiz9@gmail.com | [GitHub](https://github.com/zionpraiz9-code) | Active Member |
 | Adeleye Adekunle Oluwaseun | dequnle7@gmail.com | [GitHub](https://github.com/qunlecrown) | Active Member |
 | Udoh Edidiong Monday | beeeddy22@gmail.com | [GitHub](https://github.com/Edidiong-Udoh2) | Active Member |
